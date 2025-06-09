@@ -1,0 +1,71 @@
+[33me6110dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m fix: fix typo in element.sh
+[33mc644078[m test: verify correct output for atomic number and name
+[33m2a9fb88[m refactor: update query to join types table
+[33m808642f[m fix: handle missing arguments in element.sh
+[33m205c64c[m feat: add basic structure to element.sh
+[33mfa469d4[m Initial commit
+[33mb90cf8c[m chore: final cleanup before submission
+[33m5aaf25d[m refactor: updated atomic mass values
+[33m6ef63ed[m fix: corrected type_id assignments
+[33m6d190e2[m feat: added element.sh script
+[33md3f6ff9[m Initial commit
+[33m51a9f5b[m 1.1
+[33m4db5640[m INIT
+[33m2a90fff[m fix: use nano with git (#17)
+[33m81d8249[m feat: release v2.0.0 (#16)
+[33m06b0698[m fix: add psql variable example (#15)
+[33me7fe150[m feat: release v1.0.4 (#14)
+[33mab2c0d7[m fix: user story (#13)
+[33mb772c30[m fix: improve instruction (#12)
+[33m7829b84[m feat: release v1.0.3 (#9)
+[33mf4b0741[m fix: "It's" being used possessively (#8)
+[33m53c531b[m fix: update webhook to .org and improve instructions (#7)
+[33m1339460[m Fix: typos and errors (#5)
+[33m39497e1[m fix: webhook for .dev (#6)
+[33mbf22f3a[m feat: release v1.0.2 (#4)
+[33m2b076b0[m feat: add id to yaml (#3)
+[33m5631772[m feat: add webhook (#2)
+[33m3ee49e2[m updates changelog (#1)
+[33m63f8f39[m update json
+[33m2c4aa96[m fix (v1.0.1): URI in coderoad YAML
+[33mc9b77b6[m update json
+[33mdf00a8c[m release: v1.0.1
+[33mbc624f6[m update json
+[33m1210025[m v1.0.0 - initial release
+[33m7358647[m update json
+[33m3b7d6c4[m update startup commands
+[33ma2bc308[m strove to codeally
+[33ma2ff0bf[m chore: add disable run on save
+[33m6f1c9a6[m switch URL to JSON to use main
+[33m0a11ab3[m update json
+[33m12881fb[m add something
+[33meaceb30[m update json
+[33m8cc660f[m refine user stories
+[33m9b3c4ff[m update json
+[33mb0a8711[m update
+[33m1c7cbbd[m update json
+[33m872c141[m move 'remove type column' user story to bottom
+[33mdeea689[m update json
+[33mc28ac84[m add specifics to user story
+[33m9dbcc0b[m update json
+[33m2bc7606[m refine
+[33m51d24a4[m fix: typo
+[33me964ff4[m update json
+[33m18a743e[m fix: grammer
+[33m672c4bb[m update json
+[33mdc861ec[m update json
+[33m5002d83[m refine user stories
+[33mee1886f[m refine user stories
+[33m01f3366[m update user stories
+[33m76920e3[m update json
+[33m83fc826[m test
+[33mdc408c1[m udpate json
+[33mc3c2258[m test table layout
+[33m45835d9[m fix psql connect command
+[33m8909367[m add json
+[33m6c380d3[m add build db command
+[33ma07ea83[m part 1 user stories
+[33m85c0a79[m update json
+[33m61bf6bc[m ...
+[33ma2a2ddd[m ...
+[33mb923e08[m Initial Commit
